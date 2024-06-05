@@ -5,7 +5,7 @@
 Following your first attempt to open a repository on GitHub and using Markdown during the class.
 We ask you to write a protocol (subject of your choice) and push it to your **"metadata folder"** following the requested guideline:
  
-####1. The protocol must be written in a text editor of your choice between *Markdown*, *Atom* or *Visual Studio*.
+#### 1. The protocol must be written in a text editor of your choice between *Markdown*, *Atom* or *Visual Studio*.
 
 #### 2. _Within this protocol you will need to have the following points (a-f):_ 
 
@@ -38,7 +38,7 @@ For example: [Coral bleaching: the role of the host](https://www.sciencedirect.c
 **(f)** insert a link for an online protocol of a chemical or instrument.
  For example: [Tryzol reagent](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://assets.thermofisher.com/TFS-Assets/LSG/manuals/trizol_reagent.pdf)
 
-#####You are free to choose the length of the protocol, but all the points requested must be present. 
+##### You are free to choose the length of the protocol, but all the points requested must be present. 
 
 #### When the protocol is finished, please add it to your research method repository and send us the link via moodle. 
 
