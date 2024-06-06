@@ -16,7 +16,7 @@ We ask you to write a protocol (subject of your choice) and push it to your **"m
 **(c)** Insert photos with captions  
 For example:   
    
-![colonie_figure_sesesame.png](Reserch-Methods/Images/colonie_figure_sesesame.png) 
+![colonie_figure_sesesame.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/colonie_figure_sesesame.png) 
 
 Figure 1: *Pocillopora grandis* in the reef of Moorea.  
 
