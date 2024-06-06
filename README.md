@@ -16,7 +16,7 @@ We ask you to write a protocol (subject of your choice) and push it to your **"m
 **(c)** Insert photos with captions  
 For example:   
    
-![poc_faucon_exemple_pic.png](/Users/talimass/Documents/GitHub/Reserch-Methods/Images/IMG_7374.jpeg) 
+![poc_faucon_exemple_pic.png](Reserch-Methods/Images/IMG_7374.jpeg) 
 
 Figure 1: *Pocillopora grandis* in the reef of Moorea.  
 
