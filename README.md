@@ -18,7 +18,7 @@ For example:
    
 ![colonie_figure_sesesame.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/colonie_figure_sesesame.png) 
 
-Figure 1: *Pocillopora grandis* in the reef of Moorea.  
+Figure 1: Colonie of *Pocillopora spp.* in the lagoon of Mo'orea at different flow regime.  
 
 **(d)** Insert tables (screenshots not allowed) that include 6 columns, 6 raws and a title to each columnn     
 For example:   
