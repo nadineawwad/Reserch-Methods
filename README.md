@@ -5,7 +5,7 @@
 Following your first attempt to open a repository on GitHub and using Markdown during the class.
 We ask you to write a protocol (subject of your choice) and push it to your **"metadata folder"** following the requested guideline:
  
-#### 1. The protocol must be written in a text editor of your choice between *Markdown*, *Atom* or *Visual Studio*.
+#### 1. The protocol must be written in a text editor of your choice between *Markdown*, *Typora*, *Atom* or *Visual Studio*.
 
 #### 2. _Within this protocol you will need to have the following points (a-f):_ 
 
