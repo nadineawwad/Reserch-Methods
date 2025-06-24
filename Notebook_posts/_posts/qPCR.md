@@ -15,4 +15,4 @@
 ## 📈 Fold Change Graph
 
 
-![Fold Change Graph](qpcr-graph.png)
+![Fold Change Graph](https://raw.githubusercontent.com/nadineawwad/Reserch-Methods/main/Images/qpcr-graph.png)
