@@ -51,7 +51,7 @@ Figure 1: Example image of sea urchin embryos.
 
 ### Graph 
 
-![Figure 4 from PLOS article](https://raw.githubusercontent.com/nadineawwad/Reserch-Methods/main/Images/image2.jpg)
+![Figure 4 from PLOS article](https://raw.githubusercontent.com/nadineawwad/Reserch-Methods/main/Images/image2-2.png)
 
 Fig 4. Inhibition of Notch signaling in regenerating sea urchins treated with DAPT.
 
