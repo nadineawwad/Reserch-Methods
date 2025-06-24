@@ -15,3 +15,4 @@
 ## 📈 Fold Change Graph
 
 
+![Fold Change Graph](qpcr-graph.png)
