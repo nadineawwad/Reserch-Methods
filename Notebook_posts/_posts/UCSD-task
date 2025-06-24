@@ -1,0 +1,26 @@
+---
+
+## GNPS Molecular Networking Task
+
+### 🔗 GNPS Job Link  
+[Click here to view the GNPS job](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=fb333b3fd47f40ba9a0a1aeb88263170)
+
+### 🧪 Molecular Family Explored
+- **Cluster:** 2498
+- **Node 2390:** Bromocriptine (Parent mass: 654.228)
+- **Node 2357:** Unknown (Parent mass: 636.218)
+- **Neutral Loss Observed:** 18.01 Da
+
+➡️ This mass difference corresponds to a **loss of water (H₂O)**, identified via [Unimod](https://www.unimod.org/modifications_list.php), entry `Unimod:23`.
+
+### 📊 Spectra Comparison
+![Spectra Comparison](Images/comparison_2390_vs_2357.png)
+
+### ⚙️ Parameters Used (GNPS Defaults)
+- Precursor Ion Mass Tolerance: 2.0 Da  
+- Fragment Ion Mass Tolerance: 0.5 Da  
+- Cosine Score Threshold: 0.7  
+- Minimum Matched Peaks: 6
+
+### 💡 Summary
+This task explored a molecular family containing bromocriptine and identified a dehydration event based on spectral similarity. The analysis confirms a neutral loss of ~18.01 Da between two connected nodes in the GNPS network.
