@@ -19,15 +19,18 @@ A mass difference of approximately 18.01 Da was observed between node 2390 and n
 
 This neutral loss corresponds to dehydration (H₂O loss), a common MS/MS fragmentation event
 
-Confirmed via Unimod  
+Confirmed via Unimod 
+![Unimod result](https://raw.githubusercontent.com/nadineawwad/Reserch-Methods/main/Images/unimod.png)
+
 Unimod ID: Unimod:23  
 Modification: Dehydrated  
 Mass: –18.010565 Da
 
 ## Spectra Comparison
 
-![Spectra Comparison](Images/comparison_2390_vs_2357.png)
+![Spectra Comparison](https://raw.githubusercontent.com/nadineawwad/Reserch-Methods/main/Images/comparison_2390_vs_2357.png)
+
 
 ## Summary
 
-This molecular family highlights the spectral similarity between bromocriptine and a closely related unknown compound. The neutral loss of ~18.01 Da suggests a dehydration event, indicating possible structural variation such as a missing hydroxyl group. This analysis demonstrates how molecular networking and spectral data can reveal biochemical relationships.
+This molecular family highlights the spectral similarity between bromocriptine and a closely related unknown compound. The neutral loss of 18.01 Da suggests a dehydration event, indicating possible structural variation such as a missing hydroxyl group. 
