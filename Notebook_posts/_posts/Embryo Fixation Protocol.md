@@ -15,7 +15,7 @@
 
 ### *Protocol Steps* (italic)
 
-1. Fertilize embryos.  
+1. <ins>Fertilize embryos.</ins>  (underline)
 2. Culture to desired time point (e.g., 20hpf).  
 3. Centrifuge at **2000 rpm** (bold) at *4°C* (italic) for 2 min.  
 4. Replace medium with 50% fixative, incubate 1 hour at 4°C.  
